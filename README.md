@@ -10,8 +10,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold"/>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MatheusPCRJ&theme=gotham&hide_border=true&area=true)
-
 <h2 align="center">Minhas Rede Sociais, Follow-me!<h2>
 
 <div align="center">  
