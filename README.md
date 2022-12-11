@@ -3,11 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=25&center=true&vCenter=true&width=700&lines=Olá+Mundo,+Meu+Nome+é+Matheus+Gomes!+;Bem+Vindo+ao+Meu+Github!+:%29)](https://git.io/typing-svg)
 
-![image-removebg-preview](https://user-images.githubusercontent.com/112782424/206903654-235fe68b-cb9a-4d25-a7d6-7155051148aa.png)
+
+<img width="200px" height="200px" src="https://user-images.githubusercontent.com/112782424/206933267-33b98790-6c3f-4102-ac4a-71dcdf15cd0b.png" alt="Matheus Gomes github stats" /> 
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold" alt="Matheus Gomes github stats" /> 
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold" alt="Matheus Gomes github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold"/>
 </div>
