@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=40&center=true&vCenter=true&width=1000&lines=Olá+Mundo,+Meu+Nome+é+Matheus+Gomes!+;Atualmente+Estudo+Programação+Web+na;Resilia,+Senac+e+PrefeituraRJ;Bem+Vindo+ao+Meu+Github!+:%29)](https://git.io/typing-svg)
 
+![image-removebg-preview1](https://user-images.githubusercontent.com/112782424/206903406-aad28a61-f71b-46e7-87f0-5411415b0211.png)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold" alt="Matheus Gomes github stats" /> 
   
