@@ -9,13 +9,19 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=500&pause=&color=00ffff&center=true&vCenter=true&width=1000&lines=:%29)
 
-<div style="display: flex;">
-  <img style="vertical-align: top;" width="200px" height="200px" src="https://user-images.githubusercontent.com/112782424/206933267-33b98790-6c3f-4102-ac4a-71dcdf15cd0b.png" alt="Matheus Gomes github stats" />
+
+
+  <img align="left" width="200px" height="200px" src="https://user-images.githubusercontent.com/112782424/206933267-33b98790-6c3f-4102-ac4a-71dcdf15cd0b.png" alt="Matheus Gomes github stats" />
   
-<h2>.....<h2>
 
-</div>
+ 
+.....
 
+
+
+<br>
+<br>
+<br>
 
 <h2 align="center">Minhas Rede Sociais, Follow-me!<h2>
 
