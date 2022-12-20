@@ -32,29 +32,44 @@
 <a href="https://www.codewars.com/users/MatheusPCRJ" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"</a>
 <a href="https://www.facebook.com/MatheusGS17/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
 <a href="https://www.instagram.com/matheusgomes170001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ 
+
+
 
 </div>
 <br>
 <div align="center">  
 
 ### Habilidades principais:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=f6df66)&nbsp; 
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=230100)&nbsp;
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569846-20531862-3990-46bf-bc5c-c5b2e11938cd.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569820-223bac44-e587-44aa-a4ab-bc634313a39e.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569325-b11f633f-a68e-4bfe-9e34-2280dd70348f.svg" title = "GitHub"/></code>
 <br><br>
+ 
+ 
 ### Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=230100)&nbsp;
+ <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569325-b11f633f-a68e-4bfe-9e34-2280dd70348f.svg" title = "GitHub"/></code>
+ <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569361-12392aa3-7357-4c85-84e3-4ac616dead1f.svg" title = "VSCODE"/></code>
+
 <br><br>
+ 
+ 
 ### Outros Conhecimentos:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=f6df66)&nbsp;
-![Figma](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=f6df66)&nbsp;
-![Figma](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=f6df66)&nbsp;
+<code><img width="60px" height="30px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=f6df66" title = "Notion"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568726-4b90aea9-c3b7-451c-8c08-b8cd0302ed57.svg" title = "Trello"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568662-849aa396-d624-4982-8c11-5f2b0e87510e.svg" title = "Figma"/></code>
+
+ 
 <br><br>
 ### Estudando neste momento:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=230100)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=f6df66)&nbsp;
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568175-0e767412-3307-46fd-bcc9-1dedeba5ec36.svg" title = "JavaScript"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568096-fc7dc96f-0666-4744-a488-5f6d32df8b2b.svg" title = "Git"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208567936-7f849eb3-6b75-4e99-9b49-cc11e1de2684.svg" title = "BootStrap"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208567841-5f4e44dd-fc77-4593-9eaf-10ca04d356ab.svg" title = "React"/></code>
+
+
+
+
             
   </div>
 <br><br>
