@@ -1,27 +1,30 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ -->
+<!-- <img width=100% height="100px" src="https://user-images.githubusercontent.com/112782424/208556949-02b024b7-787e-462e-af7b-f534a972922f.gif"/>
+ -->
+<img width=100% height="100px" src="https://user-images.githubusercontent.com/112782424/208558088-096824ac-7bd5-4282-ae1a-479974e1c68e.gif"/>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ffff&size=25&center=true&duration=2000&vCenter=true&width=1000&lines=Olá+Mundo!+Bem+Vindo+ao+Meu+Github!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58e0f2&size=25&center=true&duration=2000&vCenter=true&width=1000&lines=Olá+Mundo!+Bem+Vindo+ao+Meu+Github!)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=500&pause=&color=F7EE2E&center=true&vCenter=true&width=1000&lines=:%29)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=500&pause=&color=00ffff&center=true&vCenter=true&width=1000&lines=:%29)
 
-
-<img width="200px" height="200px" src="https://user-images.githubusercontent.com/112782424/206933267-33b98790-6c3f-4102-ac4a-71dcdf15cd0b.png" alt="Matheus Gomes github stats" /> 
-
-
-<div align="center">  
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold" alt="Matheus Gomes github stats" /> 
+<div style="display: flex;">
+  <img style="vertical-align: top;" width="200px" height="200px" src="https://user-images.githubusercontent.com/112782424/206933267-33b98790-6c3f-4102-ac4a-71dcdf15cd0b.png" alt="Matheus Gomes github stats" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold"/>
+<h2>.....<h2>
+
 </div>
+
 
 <h2 align="center">Minhas Rede Sociais, Follow-me!<h2>
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/matheus-gomes-780339211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.codewars.com/users/MatheusPCRJ" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"</a>
-<a href="https://www.instagram.com/matheusgomes170001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.facebook.com/MatheusGS17/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
+<a href="https://www.instagram.com/matheusgomes170001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+
 </div>
 <br>
 <div align="center">  
@@ -52,5 +55,10 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusPCRJ}/count.svg" /></p> 
 <br></div>
   
+ <div align="center">  
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold" alt="Matheus Gomes github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPCRJ&repo=github-readme-stats&cache_seconds=86400&theme=maroongold"/>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
