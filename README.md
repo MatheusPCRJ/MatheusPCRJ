@@ -38,41 +38,43 @@
 
 </div>
 <br>
+ 
 <div align="center">  
+ 
 
 ### Habilidades principais:
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569846-20531862-3990-46bf-bc5c-c5b2e11938cd.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569820-223bac44-e587-44aa-a4ab-bc634313a39e.svg" title = "CSS3"/></code>
-<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569325-b11f633f-a68e-4bfe-9e34-2280dd70348f.svg" title = "GitHub"/></code>
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/209353804-e90c8bb2-6554-4d79-a309-962f1999484e.png" title = "GitHub"/></code>
 <br><br>
- 
- 
-### Ferramentas:
- <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569325-b11f633f-a68e-4bfe-9e34-2280dd70348f.svg" title = "GitHub"/></code>
- <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569361-12392aa3-7357-4c85-84e3-4ac616dead1f.svg" title = "VSCODE"/></code>
 
+ <img align="left" width="250px" src="https://user-images.githubusercontent.com/112782424/209355272-894fd724-825e-49e0-b213-b951c52887aa.png" title = "desenho"/>
+
+### Ferramentas:
+ <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/209353804-e90c8bb2-6554-4d79-a309-962f1999484e.png" title = "GitHub"/></code>
+ <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569361-12392aa3-7357-4c85-84e3-4ac616dead1f.svg" title = "VSCODE"/></code>
 <br><br>
  
  
+
 ### Outros Conhecimentos:
 <code><img width="60px" height="30px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=f6df66" title = "Notion"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568726-4b90aea9-c3b7-451c-8c08-b8cd0302ed57.svg" title = "Trello"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568662-849aa396-d624-4982-8c11-5f2b0e87510e.svg" title = "Figma"/></code>
-
- 
 <br><br>
+
+
 ### Estudando neste momento:
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568175-0e767412-3307-46fd-bcc9-1dedeba5ec36.svg" title = "JavaScript"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568096-fc7dc96f-0666-4744-a488-5f6d32df8b2b.svg" title = "Git"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208567936-7f849eb3-6b75-4e99-9b49-cc11e1de2684.svg" title = "BootStrap"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208567841-5f4e44dd-fc77-4593-9eaf-10ca04d356ab.svg" title = "React"/></code>
-
-
-
-
-            
-  </div>
+ 
+</div>
+ 
 <br><br>
+ 
+ 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusPCRJ}/count.svg" /></p> 
