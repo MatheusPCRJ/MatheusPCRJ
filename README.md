@@ -25,17 +25,14 @@
 <br>
 <br>
 
-<h2 align="center">Minhas Rede Sociais, Follow-me!<h2>
+<h2><h2>
 
 <div align="center">  
+Minhas Rede Sociais, Follow-me!<br><br>
 <a href="https://www.linkedin.com/in/matheus-gomes-780339211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.codewars.com/users/MatheusPCRJ" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"</a>
 <a href="https://www.facebook.com/MatheusGS17/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"</a>
 <a href="https://www.instagram.com/matheusgomes170001/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
- 
-
-
-
 </div>
 <br>
  
@@ -47,8 +44,7 @@
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208569820-223bac44-e587-44aa-a4ab-bc634313a39e.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/209353804-e90c8bb2-6554-4d79-a309-962f1999484e.png" title = "GitHub"/></code>
 <br><br>
-
- <img align="left" width="250px" src="https://user-images.githubusercontent.com/112782424/209357297-a4ace8a3-4ef0-4c36-8994-f3356ce6b167.png" title = "desenho"/>
+  <img align="left" width="250px" src="https://user-images.githubusercontent.com/112782424/209357297-a4ace8a3-4ef0-4c36-8994-f3356ce6b167.png" title = "desenho"/>
 
 
 ### Ferramentas:
