@@ -48,7 +48,8 @@
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/209353804-e90c8bb2-6554-4d79-a309-962f1999484e.png" title = "GitHub"/></code>
 <br><br>
 
- <img align="left" width="250px" src="https://user-images.githubusercontent.com/112782424/209355272-894fd724-825e-49e0-b213-b951c52887aa.png" title = "desenho"/>
+ <img align="left" width="250px" src="https://user-images.githubusercontent.com/112782424/209357297-a4ace8a3-4ef0-4c36-8994-f3356ce6b167.png" title = "desenho"/>
+
 
 ### Ferramentas:
  <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/209353804-e90c8bb2-6554-4d79-a309-962f1999484e.png" title = "GitHub"/></code>
