@@ -11,7 +11,7 @@
 
 
 
-  <img align="left" width="200px" height="200px" src="https://user-images.githubusercontent.com/112782424/206933267-33b98790-6c3f-4102-ac4a-71dcdf15cd0b.png" alt="Matheus Gomes github stats" />
+  <img align="left" width="200px" height="230px" src="https://user-images.githubusercontent.com/112782424/206933267-33b98790-6c3f-4102-ac4a-71dcdf15cd0b.png" alt="Matheus Gomes github stats" />
   
 
  
