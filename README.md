@@ -15,16 +15,21 @@
   
 
  
-.....
+Olá! Me chamo Matheus Gomes, tenho 26 anos. Moro RJ/RJ, estou achando incrível a área de programação!
+Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
 
+Atualmente faço parte de um bootcamp da Resilia full-stack de 6 meses e pretendo fazer outros, haha.
 
+Tenho dois hobbies preferidos,<br>
+Esportes 🏃 🏋🏽 🧗<br>
+Games🎮 (mas sou muito ruim em todos, haha) <br>
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
+<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a>
+<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+Tenho diversos projetos no meu Github, pode ficar a vontade em bisbilhotar cada um deles!<br>
+Para saber mais sobre mim, entre em contato comigo nos links abaixo
 <br>
 
 <h2><h2>
