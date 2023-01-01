@@ -37,8 +37,7 @@
 
 - :slightly_smiling_face: Pronomes: Ele/Ele
 
-- :earth_americas: 	Curiosidade: Atleta amador em corrida de rua, RP atual 5km = 18 minutos :sunglasses: <br>
-
+- :earth_americas: 	Curiosidades sobre mim: Atleta amador em corrida de rua, RP atual 5km = 18 minutos :sunglasses:<br>
 Games🎮 (mas sou muito ruim em todos, haha) <br>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a>
