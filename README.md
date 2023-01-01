@@ -2,35 +2,50 @@
  -->
 <!-- <img width=100% height="100px" src="https://user-images.githubusercontent.com/112782424/208556949-02b024b7-787e-462e-af7b-f534a972922f.gif"/>
  -->
-<img width=100% height="100px" src="https://user-images.githubusercontent.com/112782424/208558088-096824ac-7bd5-4282-ae1a-479974e1c68e.gif"/>
+ 
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=jarek-pacocha&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hello%20and%20welcome%20to%20my%20GitHub%20profile!&descAlignY=53&descAlign=68)
+-->
+ 
+<img width=100% height="150px" src="https://user-images.githubusercontent.com/112782424/208558088-096824ac-7bd5-4282-ae1a-479974e1c68e.gif"/>
+
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58e0f2&size=25&center=true&duration=2000&vCenter=true&width=1000&lines=Olá+Mundo!+Bem+Vindo+ao+Meu+Github!)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=500&pause=&color=00ffff&center=true&vCenter=true&width=1000&lines=:%29)
+
+
+<div align="center">
+<h1> Oi, eu sou Matheus! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+
+<h3>Sou estudante de programação web.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=500&pause=&color=00ffff&width=25&height=25&lines=:%29" />
+</h3>
+
+
+</div>
+
 
 
 
   <img align="left" width="200px" height="230px" src="https://user-images.githubusercontent.com/112782424/206933267-33b98790-6c3f-4102-ac4a-71dcdf15cd0b.png" alt="Matheus Gomes github stats" />
   
 
- 
-Olá! Me chamo Matheus Gomes, tenho 26 anos. Moro RJ/RJ, estou achando incrível a área de programação!
-Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!
+- :point_right: 	Estou interessado em desenvolvimento web, a princípio Full-Stack, mas quero me especializar no Back-End ou Front-End, estou em dúvida :thinking:
 
-Atualmente faço parte de um bootcamp da Resilia full-stack de 6 meses e pretendo fazer outros, haha.
+- :hammer: Atualmente faço parte de um bootcamp da Resilia full-stack de 6 meses. 
 
-Tenho dois hobbies preferidos,<br>
-Esportes 🏃 🏋🏽 🧗<br>
+- :slightly_smiling_face: Pronomes: Ele/Ele
+
+- :earth_americas: 	Curiosidade: Atleta amador em corrida de rua, RP atual 5km = 18 minutos :sunglasses: <br>
+
 Games🎮 (mas sou muito ruim em todos, haha) <br>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
 <a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a>
 <a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<br>
 
-Tenho diversos projetos no meu Github, pode ficar a vontade em bisbilhotar cada um deles!<br>
+- :handshake: Tenho diversos projetos no meu Github, pode ficar a vontade em bisbilhotar cada um deles!<br>
 Para saber mais sobre mim, entre em contato comigo nos links abaixo
-<br>
 
 <h2><h2>
 
