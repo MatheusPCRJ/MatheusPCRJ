@@ -17,11 +17,9 @@
 <div align="center">
 <h1> Oi, eu sou Matheus! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-
 <h3>Sou estudante de programação web.
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=500&pause=&color=00ffff&width=25&height=25&lines=:%29" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=500&pause=&color=00ffff&width=25&height=23&lines=:%29" />
 </h3>
-
 
 </div>
 
@@ -38,10 +36,10 @@
 - :slightly_smiling_face: Pronomes: Ele/Ele
 
 - :earth_americas: 	Curiosidades sobre mim: Atleta amador em corrida de rua, RP atual 5km = 18 minutos :sunglasses:<br>
-Games🎮 (mas sou muito ruim em todos, haha) <br>
+🎮 Games (mas sou muito ruim em todos, haha) <br>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a>
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
 
 - :handshake: Tenho diversos projetos no meu Github, pode ficar a vontade em bisbilhotar cada um deles!<br>
 Para saber mais sobre mim, entre em contato comigo nos links abaixo
