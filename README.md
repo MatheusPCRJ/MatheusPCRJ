@@ -31,9 +31,11 @@
 
 - :point_right: 	Estou interessado em desenvolvimento web, a princípio Full-Stack, mas quero me especializar no Back-End ou Front-End, estou em dúvida :thinking:
 
-- :hammer: Atualmente faço parte de um bootcamp da Resilia full-stack de 6 meses. 
+- :hammer: Atualmente faço parte de um bootcamp de uma parceria da <a href="https://prefeitura.rio/desenvolvimento-economico-inovacao-simplificacao/programadores-cariocas-comemoram-formatura-na-cidade-das-artes/"        target="_blank">Prefeitura RJ </a> + 
+<a href="https://www.resilia.com.br/" target="_blank">Resilia</a> + 
+<a href="https://www.rj.senac.br/" target="_blank">Senac</a> Full-Stack de 6 meses, para saber mais click <a href="https://www.rj.senac.br/noticias/parcerias/senac-rj-capacita-1090-jovens-do-programadores-cariocas/">aqui</a>. 
 
-- :slightly_smiling_face: Pronomes: Ele/Ele
+- :slightly_smiling_face: Pronomes: Ele/Dele
 
 - :earth_americas: 	Curiosidades sobre mim: Atleta amador em corrida de rua, RP atual 5km = 18 minutos :sunglasses:<br>
 🎮 Games (mas sou muito ruim em todos, haha) <br>
