@@ -37,10 +37,12 @@ Full-Stack de 5 meses, para saber mais click <a href="https://www.campinhodigita
 - :slightly_smiling_face: Pronomes: Ele/Dele
 
 - :earth_americas: 	Curiosidades sobre mim: Atleta amador em corrida de rua, RP atual 5km = 18 minutos :sunglasses:<br>
-🎮 Games (mas sou muito ruim em todos, haha) <br>
+-  🧗 Sou escalador <br>
+<!--
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
+-->
 
 - :handshake: Tenho diversos projetos no meu Github, pode ficar a vontade em bisbilhotar cada um deles!<br>
 Para saber mais sobre mim, entre em contato comigo nos links abaixo
@@ -84,11 +86,12 @@ Minhas Rede Sociais, Follow-me!<br><br>
 ### Estudando neste momento:
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568175-0e767412-3307-46fd-bcc9-1dedeba5ec36.svg" title = "JavaScript"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208568096-fc7dc96f-0666-4744-a488-5f6d32df8b2b.svg" title = "Git"/></code>
-<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208567936-7f849eb3-6b75-4e99-9b49-cc11e1de2684.svg" title = "BootStrap"/></code>
 <code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208567841-5f4e44dd-fc77-4593-9eaf-10ca04d356ab.svg" title = "React"/></code>
  
 </div>
- 
+ <!--
+<code><img width="40px" src="https://user-images.githubusercontent.com/112782424/208567936-7f849eb3-6b75-4e99-9b49-cc11e1de2684.svg" title = "BootStrap"/></code>
+-->
 <br><br>
  
  
